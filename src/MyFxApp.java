@@ -99,7 +99,7 @@ public class MyFxApp extends Application {
 
         VBox vbox1 = new VBox(imageView1, myButton, menuButton, choiceBox, comboBox);
         Scene myScene1 = new Scene(vbox1, 400, 500);
-//kk
+//kkhgh
         // setup scene on the stage and show it
         primaryStage.setTitle("Image Picker");  // mr hern
         primaryStage.setScene(myScene1);
