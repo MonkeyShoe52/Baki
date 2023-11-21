@@ -101,7 +101,7 @@ public class MyFxApp extends Application {
         Scene myScene1 = new Scene(vbox1, 400, 500);
 //kk
         // setup scene on the stage and show it
-        primaryStage.setTitle("Image Picker");
+        primaryStage.setTitle("Image Picker");  // mr h
         primaryStage.setScene(myScene1);
         primaryStage.show();
 
