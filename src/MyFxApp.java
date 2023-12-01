@@ -12,7 +12,7 @@ import java.beans.EventHandler;
 import java.io.FileInputStream;
 
 public class MyFxApp extends Application {
-
+//kkjk
     Image image1;
     Image image2;
     Image image3;

@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d121db4-a98f-4ae2-b35e-b77302c5cb74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baki Manga.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BiscuitOliva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jack Hanma.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyFxApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Yuichiro.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YujiroHanma.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="1d121db4-a98f-4ae2-b35e-b77302c5cb74" name="Changes" comment="ghh" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +61,60 @@
       <option name="presentableId" value="Default" />
       <updated>1700143920945</updated>
     </task>
+    <task id="LOCAL-00001" summary="ghh">
+      <option name="closed" value="true" />
+      <created>1700596776903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700596776903</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ghh">
+      <option name="closed" value="true" />
+      <created>1700596821133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700596821133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ghh">
+      <option name="closed" value="true" />
+      <created>1700596966501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700596966501</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ghh">
+      <option name="closed" value="true" />
+      <created>1700596993946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700596993946</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ghh">
+      <option name="closed" value="true" />
+      <created>1700597015044</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700597015044</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ghh">
+      <option name="closed" value="true" />
+      <created>1700597147795</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700597147795</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ghh" />
+    <option name="LAST_COMMIT_MESSAGE" value="ghh" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
